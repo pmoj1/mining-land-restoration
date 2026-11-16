@@ -1,0 +1,1515 @@
+=== PDF PAGE 2 ===
+This Annual Report incorporating Appendix 4E is provided to the Australian Securities Exchange  
+(“ASX”) under ASX Listing Rule 4.3A.
+Perseus Mining Limited ABN 27 106 808 986
+APPENDIX /four.linE
+Issued under ASX Listing Rule 4.3A. To be read in conjunction with the enclosed  
+Annual Financial Report.
+RESULTS FOR ANNOUNCEMENT TO THE MARKET
+KEY FIGURES
+YEAR ENDED  
+30 JUNE 2023
+A$’000
+YEAR ENDED  
+30 JUNE 2022
+A$’000
+CHANGE
+%
+Revenue from ordinary activities 1,426,420 1,125,547 ↑ 26.7
+Profit after tax from ordinary activities 476,718 279,921 ↑ 70.3
+Profit after tax attributable to members 427,404 233,595 ↑ 83.0
+AT 30 JUNE 2023
+A$
+AT 30 JUNE 2022
+A$
+CHANGE
+%
+Net tangible assets per one ordinary share 1.22 0.87 ↑ 40.8
+DIVIDENDS PAID
+30 JUNE 2023
+A$ CENTS PER 
+SHARE
+30 JUNE 2022
+A$ CENTS PER 
+SHARE
+Dividends
+Interim dividend 1.06 0.81
+Final dividend (declared) 2.48 1.64
+Return of capital
+Maiden - 1.50
+The record date of the final dividend is 13 September 2023.
+COMMENTARY ON RESULTS
+See commentary on operational results on pages 10-24 and commentary on financial results on pages 93-95.
+OTHER DISCLOSURE REQUIREMENTS
+GROUP STRUCTURE CHANGES
+Details of changes to the Group structure are disclosed in note 18 of the accompanying Consolidated 
+Financial Statements.
+ADDITIONAL ITEMS REQUIRED UNDER LISTING RULE 4.3A
+Additional Appendix 4E disclosure requirements and commentary on significant features of the operating 
+performance, results of segments, trends in performance and other factors affecting the results for the 
+period are contained in the accompanying Consolidated Financial Statements for the year ended 30 June 
+2023. The Appendix 4E should be read in conjunction with the Consolidated Financial Statements, as 
+well as any public announcements made in the period by Perseus Mining Limited in accordance with the 
+continuous disclosure requirements of the Corporations Act 2001 (Cth) and the ASX Listing Rules.
+This report is based on consolidated financial statements which have been audited by 
+PricewaterhouseCoopers.
+
+=== PDF PAGE 3 ===
+CORPORATE DIRECTORY
+DIRECTORS 
+Terence Sean Harvey  
+Non-Executive Chairman
+Jeffrey Allan Quartermaine  
+Managing Director & Chief 
+Executive Officer
+Amber Jemma Banfield  
+Non-Executive Director
+Elissa Sarah Cornelius  
+Non-Executive Director
+Daniel Richard Lougher  
+Non-Executive Director
+John Francis Gerald McGloin  
+Non-Executive Director
+David Meldrum Ransom  
+Non-Executive Director
+COMPANY SECRETARY 
+Martijn Paul Bosboom
+REGISTERED AND  
+CORPORATE OFFICE 
+Level 2 
+437 Roberts Road 
+SUBIACO 
+Western Australia  
+6008
+PO Box 1578 
+SUBIACO 
+Western Australia  
+6904
+T: +61 8 6144 1700 
+F: +61 8 6144 1799 
+E: info@perseusmining.com 
+W: www.perseusmining.com
+GHANA OFFICE 
+4 Chancery Court 
+147A Giffard Road 
+East Cantonments 
+Accra, Ghana
+PO Box CT2576 
+Cantonments 
+Accra, Ghana
+T: (233) 302 760 530 
+F: (233) 302 760 528
+Côte d’Ivoire OFFICE 
+II Plateaux Lot 2139 ilot 186 bis,
+28 BP 571 Abidjan 28, Côte d’Ivoire
+T: (225) 22 41 9126  
+F: (225) 22 41 9125
+SHARE REGISTRY 
+Computershare Investor  
+Services Pty Ltd 
+Level 11 
+172 St Georges Terrace 
+Perth,  
+Western Australia  
+6000 AUSTRALIA
+T: +61 3 9415 4000 
+F: +61 3 9473 2500 
+W: www.computershare.com
+Computershare Investor  
+Services Inc. 
+Level 3, 
+510 Burrard Street 
+Vancouver,  
+British Columbia  
+V6C3B9 CANADA
+T: (1 604) 661 9400 
+F: (1 604) 661 9401 
+W: www.computershare.com
+AUDITORS 
+PricewaterhouseCoopers 
+125 St Georges Terrace 
+Perth,  
+Western Australia  
+6000
+STOCK EXCHANGE LISTINGS 
+Australian Securities Exchange  
+ASX: PRU
+Toronto Stock Exchange  
+TSX: PRU
+Frankfurt Stock Exchange 
+WKN: A0B7MN
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT
+1
+
+=== PDF PAGE 4 ===
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT2
+VISION & VALUES 3
+FY23 PERFORMANCE HIGHLIGHTS 4
+MESSAGE FROM OUR CHAIRMAN  
+AND MANAGING DIRECTOR & CEO   6
+REVIEW OF OPERATIONS 10
+RISK MANAGEMENT FRAMEWORK 25
+SUSTAINABLE DEVELOPMENT REPORT 28
+ANNUAL FINANCIAL REPORT 92
+CONTENTS
+
+
+=== PDF PAGE 5 ===
+TEAMWORK
+Alone we achieve a 
+little, working together 
+we achieve a lot
+INTEGRITY
+We act with consistency, 
+honesty, accuracy 
+and sustainability in 
+everything we do
+COMMITMENT
+We give our all, 
+every time we do 
+something
+ACHIEVEMENT
+We do what we say, 
+we deliver on our 
+promises… always
+OUR VALUES
+3
+CORPORATE  
+VISION
+By undertaking socially  
+and environmentally 
+responsible and commercially 
+successful discovery, 
+acquisition, development, and 
+operation of gold mines, we 
+provide material benefits  
+to our stakeholders.
+CORPORATE  
+MISSION
+We generate material 
+benefits for all our 
+stakeholders, in fair  
+and equitable  
+proportions.
+CORPORATE  
+OBJECTIVE
+To progressively position 
+our business to sustain gold 
+production of approximately 
+500,000 ounces per year at a 
+cash margin of not less than 
+US$400 per ounce,  
+from 2022.
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT
+
+=== PDF PAGE 7 ===
+LOCAL  
+EMPLOYMENT
+95%
+TOTAL ECONOMIC 
+CONTRIBUTION TO OUR  
+HOST COUNTRIES 
+~US$537M 
+LOCAL  
+PROCUREMENT
+79%
+VALUE CREATED FOR OUR  
+HOST COUNTRIES AND COMMUNITIES
+5
+STABLE GROUP 
+ROLLING 12-MONTH 
+TOTAL RECORDABLE 
+INJURY FREQUENCY 
+RATE OF 
+1.3
+ 
+EXTENDED  
+THIRD PARTY LIMITED 
+ASSURANCE TO COVER 
+GREENHOUSE GAS  
+AND ENERGY  
+DATA
+Reduced our emissions  
+intensity for a second 
+consecutive year from
+0.55 tonnes of CO2e per ounce  
+of gold produced in FY22 to 
+0.51 tonnes in FY23.
+REVENUE
+A$1.43B
+Up 27%  
+from FY22
+PROFIT AFTER TAX
+A$477M
+Up 70%  
+from FY22
+OPERATING CASHFLOW
+A$648M
+Up 24%  
+from FY22
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT
+
+=== PDF PAGE 8 ===
+PERSEUS MINING LIMITED  |  2023 ANNUAL REPORT
+MESSAGE FROM OUR 
+CHAIRMAN AND MANAGING 
+DIRECTOR & CEO 
+Before reflecting on specific achievements during 
+the year, we would like to thank all our employees 
+and our business partners’ employees across all the 
+jurisdictions in which we operate, for their efforts 
+and support during what has been yet another 
+successful year for Perseus, marked by results that 
+outperformed our targets and further cemented 
+our position as a highly profitable mid-tier African-
+focused gold producer. Once again, we have 
+collectively delivered on our promises, a core value  
+of our Company. 
+We achieved results above the top end of our 
+production guidance range for both 2H FY23 and 
+FY23, and as importantly, well below the bottom  
+Dear Fellow Shareholder,
+We are proud to be presenting Perseus’s ﬁrst Annual Report  
+that combines our Operating, Sustainability and Financial reports  
+for the year ending 30 June 2023 (“FY23”), into a single report.  
+Our new reporting approach is designed to oﬀer our stakeholders 
+a more holistic perspective on our Company’s achievements, 
+demonstrating how the integration of ﬁnancial discipline,  
+operational excellence and sustainable mining practices can  
+lead to outstanding performance. 
+end of our cost guidance ranges. We produced  
+535,281 ounces at an All-in Site Costs (“AISC”) of 
+US$959 per ounce, with a margin of US$844 per 
+ounce, based on an average gold sale price of 
+US$1,803 per ounce. We achieved notional cashflow 
+of US$452 million for the year. 
+This consistent performance further strengthened 
+our financial position, with profit after tax of A$477 
+million (US$321 million) and cash and bullion of 
+A$786 million (US$522 million), and zero debt. 
+This was a noteworthy achievement given our 
+Company’s size and asset base, especially within a 
+global inflationary environment and in a challenging 
+geopolitical context.
+6
+
+=== PDF PAGE 9 ===
+PERSEUS MINING LIMITED  |  2023 ANNUAL REPORT
+Our FY23 results underline the trend that Perseus 
+established some time ago. Apart from six months 
+in 2020 when the global COVID-19 pandemic 
+emerged, we have either achieved or exceeded 
+market guidance – our FY23 results continue this 
+trend. Our Yaouré Gold Mine in Côte d’Ivoire, which 
+commenced operations at the end of 2020, has 
+underpinned this performance, contributing more 
+than half of our annual gold production, while our 
+first mine, Edikan, in Ghana returned to much 
+stronger performance in FY23, with gold production 
+up nearly 56% from financial year 2022 (“FY22”) while 
+AISC remained stable. Our Sissingué mine once 
+again performed to our expectations, with mining 
+commencing at the Fimbiasso satellite deposit 
+during the year. 
+Our results demonstrate the strong performance 
+of all our mines, a testament to the effective 
+management and exceptional on-site teams 
+overseeing day-to-day operations. This success is 
+reflected not only in our production results but also 
+in the other key performance metrics that matter 
+to us – including safety, diversity, constructive 
+community relations and sound environmental 
+management. 
+We achieved strong safety performance in FY23, 
+with the implementation of our Safely Home Every 
+Day (“SHED”) program and embedding this concept 
+across all levels of our business has been a key 
+focus this year. We continuously monitor the safety 
+and security of our sites to ensure our teams can 
+work and return home safely and reported a Total 
+Recordable Injury Frequency Rate (“TRIFR”) and a 
+Lost Time Injury Frequency Rate (“LTIFR”) of 1.3 and 
+0.24 respectively, as stable on FY22 rates. The SHED 
+program is widely accepted and generating positive 
+behaviours and initiatives, and we hope it continues 
+to improve our safety outcomes as we roll out  
+Phase 2 in the coming year.
+We acknowledge that creating a diverse workforce 
+in our industry and in the specific jurisdictions 
+in which we operate, requires perseverance and 
+dedication to address a number of challenges. 
+Diversity takes many different forms, but at Perseus 
+we prioritise the employment of local and national 
+talent, resulting in approximately 95% of our 
+workforce being national employees. We take great 
+pride in this achievement, and especially in our 
+commitment to education and training, which has 
+empowered individuals from our communities to 
+advance within our organisation, thus cultivating 
+a pipeline of talents for the present and the future. 
+Women represented about 11% of our workforce in 
+FY23, with 29% women at Board level, 40% in our 
+Senior Leadership Team and 13.8% women in senior 
+and management roles across the Group. 
+7
+“Once again, we have 
+collectively delivered 
+on our promises, 
+a core value of our 
+Company.”
+LETTER FROM OUR CHAIRMAN AND MANAGING  
+DIRECTOR & CEO (continued)
+In line with our corporate mission of generating 
+material benefits for all our stakeholders, we have 
+made significant economic contributions to our 
+host countries in Ghana, Côte d’Ivoire, and Sudan 
+with US$537 million contributed to the national 
+economies, including US$118 million paid to 
+governments as taxes, royalties and other payments, 
+US$32 million in wages to national employees, US$4 
+million in social investment and US$382 million in 
+local supply, equivalent to more than 79% of our 
+procurement across the year. 
+
+=== PDF PAGE 10 ===
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT8
+Sean Harvey 
+Chairman
+Jeff Quartermaine 
+Managing Director  
+and CEO
+We place our local communities at the heart of our 
+sustainability strategy and continued to work closely 
+with them to not only minimise the impact that our 
+operations may have on them, but also to ensure 
+we create benefits and livelihood opportunities that 
+will outlast the life of our mines and leave a positive 
+legacy. With this in mind, we are also working hard 
+to ensure our environmental footprint is minimised 
+as much as possible by including considerations 
+for climate change risks and opportunities into our 
+business strategy. In FY24, we will further strengthen 
+our climate change strategy and start reporting 
+against the CDP standards, in addition to the Task 
+Force on Climate-Related Financial Disclosures 
+(“TCFD”). The Board also made the decision to form 
+a Sustainability Committee in FY24, to ensure we 
+continue to integrate sustainability into our strategic 
+planning and decision-making, managing risk and 
+opportunity and engaging with stakeholders at the 
+right level. 
+Organic growth remains a key objective of our 
+business because, while we produce above our 
+target of 500,000 ounces of gold a year, we need to 
+replace the Resources and Reserves that we deplete 
+each year to ensure that we can sustain our business 
+and continue to perform at those levels. As part of 
+this strategy, we have been studying the feasibility of 
+an underground mine below the CMA pit at Yaouré, 
+and in late August 2023 a Mineral Resource and 
+ore Reserve Estimate for that deposit was released. 
+An updated Life of Mine plan on both the Yaouré 
+underground and expanded Yaouré open pit are 
+underway during the September 2023 quarter. 
+At the Meyas Sand Gold Project, our development 
+project in Sudan, we continue to monitor security 
+concerns after our decision to temporarily withdraw 
+personnel from the site following an escalation of 
+armed conflict around Sudan’s capital, Khartoum. 
+Meyas Sand is an exploration and pre-development 
+asset and it currently comprises a relatively small 
+piece of our overall business. Due to circumstances 
+beyond our control, we have delayed a Final 
+Investment Decision on the full-scale development 
+of this project for the foreseeable future, until we 
+deem the situation to be safer and more stable. 
+In the meantime, we will assess and pursue other 
+organic and inorganic growth opportunities in 
+Africa, and elsewhere, as they arise. We keep a 
+watching brief across many projects and with 
+approximately US$800 million in existing cash 
+reserves and undrawn debt capacity at our disposal 
+along with expectations of continued strong cash 
+flows in the years ahead, we are well positioned 
+to capitalise on any opportunities that, upon 
+evaluation, demonstrate the potential to generate 
+added value for our shareholders, in line with our 
+corporate objective.
+LETTER FROM OUR CHAIRMAN AND MANAGING  
+DIRECTOR & CEO (continued)
+On that front, we have been pleased to deliver 
+significant capital gains and dividends to our 
+Shareholders over the past three years due to 
+careful financial management while also continuing 
+to develop our business to achieve our goal of 
+producing more than 500,000 ounces of gold at 
+cash margins in excess of US$400 per ounce. We will 
+continue to deliver this outcome in FY24, declaring 
+a final dividend of 2.48 Australian dollar cents per 
+share for FY23. 
+As we look to the year ahead, we expect to continue 
+our strong gold production, with guidance of 
+242,500 to 272,500 ounces at an AISC of US$1,008 to 
+US$1,190 per ounce for the 6 months to 31 December 
+2023, a slight increase in costs as a result of increased 
+mining at some of our mines and inflationary factors. 
+We maintain a gold price hedge book that covers 
+355,000 ounces of gold or approximately 24% of 
+the next three years of production, at a weighted 
+average selling price of US$2,008 an ounce. This 
+guaranteed sales revenue will help us underpin our 
+projected cash flows and consolidate our strong 
+cash position.
+With a strong financial position in place and solid 
+operations on track in FY24, underpinned by our 
+commitment to sustainable mining practices, we 
+look forward to further growing our business over 
+the year ahead and look forward to you continuing 
+to share the journey with us.
+
+=== PDF PAGE 12 ===
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT10
+REVIEW OF 
+OPERATIONS
+PRINCIPAL  
+ACTIVITIES
+Perseus Mining Limited and its subsidiaries  
+(the “Group” or “Perseus”) operates three gold 
+mines in West Africa: the Edikan Gold Mine in 
+Ghana (“EGM” or “Edikan”) in the Republic  
+of Ghana (“Ghana”); the Sissingué Gold Mine 
+(“SGM” or “Sissingué”); and the Yaouré Gold Mine 
+(“YGM” or “Yaouré”), both in the Republic of Côte 
+d’Ivoire (“Côte d’Ivoire”). In addition to its gold-
+mining activities, the Group also conducts mineral 
+exploration and evaluation activities in Africa. 
+REVIEW OF 
+OPERATIONS
+During financial year 2023 (“FY23”), Perseus 
+consistently met the production run-rates 
+required to maintain its corporate objective 
+to remain a multi-mine, multi-jurisdictional 
+producer of 500,000 ounces of gold per annum, 
+at a cash margin of not less than US$400 per 
+ounce. This excellent production performance 
+was largely driven by Perseus’s continued 
+strong performance from the Yaouré Gold Mine, 
+supplemented by a pleasing turnaround in 
+production from Edikan Gold Mine. 
+Gold production for the Group during the year 
+totalled 535,281 ounces at an All-in Site Cost (“AISC”) 
+(including production costs, royalties and sustaining 
+capital) of US$959 per ounce. This result included 
+production of 273,941 ounces at Yaouré at an AISC of 
+US$755 per ounce; 209,929 ounces of gold at Edikan 
+at an AISC of US$1,076 per ounce; and 51,411 ounces 
+at Sissingué at an AISC of US$1,569 per ounce.
+Gold sales by the Group 
+during the year totalled 537,564 
+ounces of gold at an average 
+sales price of US$1,803 per ounce. 
+This result included the sale of 279,471 
+ounces by Yaouré at a weighted average sales 
+price of US$1,800 per ounce, 208,998 ounces by 
+Edikan at a weighted average sales price of US$1,787 
+per ounce, and 49,095 ounces by Sissingué at a 
+weighted average sales price of US$1,888 per ounce. 
+During the financial year, the Group sold 11.7% more 
+gold, at a price that was approximately 7.1% higher 
+than in the 2022 financial year (“FY22”). 
+TOTAL  
+GOLD PRODUCED  
+DURING YEAR
+535,281
+OUNCES
+
+=== PDF PAGE 13 ===
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT 11
+YAOURÉ  
+CÔTE D’IVOIRE
+Yaouré is located in central Côte d’Ivoire,  
+40 kilometres northwest of Yamoussoukro,  
+the political capital, and 270 kilometres  
+northwest of Abidjan, the economic capital of 
+Côte d’Ivoire. Yaouré lies within a rural area,  
+22 kilometres east-northeast of the city of 
+Bouaflé, and 5 kilometres west of the Kossou 
+dam and hydroelectric power station. The nearest 
+villages to the site are Angovia and Allahou-Bazi, 
+which are located approximately one kilometre 
+east of the mine site. 
+OPERATIONS
+Operating results at Yaouré for the year ending  
+30 June 2023 and corresponding year ending  
+30 June 2022 are summarised in Table 2.
+Côte d’Ivoire
+Burkina Faso
+Ghana
+Liberia
+Guinea
+Mali
+Gulf of Guinea
+REVIEW OF OPERATIONS
+(continued)
+Table 1: Key financial operating statistics - Group
+PARAMETER UNITS YEAR TO 30 JUNE 2023 YEAR TO 30 JUNE 2022 MOVEMENT
+Total gold sales Ounces 537,564 481,075 ↑11.7%
+Average sales price US$ / ounce of  
+gold sold 1,803 1,683 ↑ 7.1%
+Gold produced Ounces 535,281 494,014 ↑ 8.4%
+All-in site cost US$ / ounce produced 959 952 ↑ 0.7%
+Table 2: Key production statistics - Yaouré
+PARAMETER UNITS YEAR TO 30 JUNE 2023 YEAR TO 30 JUNE 2022
+Total ore and waste mined Kt 33,415 34,387
+Ore mined Kt 5,291 5,811
+Ore milled Kt 3,900 3,921
+Milled head grade g/t gold 2.35 2.53
+Gold recovery rate % 92.8 93.4
+Gold produced Ounces 273,941 297,818
+Perseus mined 33,415k tonnes of ore and waste 
+during the year from the CMA open pit and Heap 
+Leach Mineral Resource, including 691k tonnes of 
+oxide ore at 1.11g/t gold and 4,600k tonnes fresh/
+transitional ore at 1.95g/t gold. Ore stockpiles plus 
+crushed ore contained 4,441k tonnes of ore at an 
+average grade of 0.84g/t gold, containing 119,393 
+ounces of gold at year end.
+Total mill throughput for the year was 3,900k tonnes 
+of ore at an average grade of 2.35g/t gold, with an 
+average gold recovery rate of 92.8% achieved.
+In FY23, Yaouré exceeded both production and cost 
+expectations, producing 273,941 ounces of gold, 
+just over 51% of the Group’s total annual production, 
+at an AISC of US$755 per ounce, and sold 279,471 
+Yaouré
+
+=== PDF PAGE 14 ===
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT12
+ounces of gold at an average sales price of US$1,800 
+per ounce. Over the year, Yaouré has continued its 
+strong production performance from prior year, 
+while maintaining a relatively consistent, although 
+slightly higher AISC. Taking the reasonably strong 
+market for gold that has prevailed this financial 
+year into account, in the 12 months to 30 June 2023, 
+Yaouré has generated US$286 million of notional 
+cashflow. Notional operating cash flow is obtained 
+by multiplying the average sales price less AISC 
+(notional margin) by the ounces of gold produced.  
+A breakdown of the financial statistics is provided  
+in Table 3.
+REVIEW OF OPERATIONS
+(continued)
+Table 3: Key financial operating statistics - Yaouré
+PARAMETER UNITS YEAR TO 30 JUNE 2023 YEAR TO 30 JUNE 2022
+Total gold sales Ounces 279,471 285,432
+Average sales price US$ / ounce of gold sold 1,800 1,696
+Production costs including:
+Mining cost US$ / tonne of material mined 2.91 2.70
+Processing cost US$ / tonne of ore milled 12.35 13.39
+G & A cost US$M / month 2.23 1.84
+Total production cost US$ / ounce 629 562
+Royalties US$ / ounce 94 81
+Sustaining Capital US$ / ounce 32 24
+All-in site cost US$ / ounce 755 668
+CMA UNDERGROUND
+In August 2022, Perseus announced a Pre-Feasibility Study 
+(“PFS”) and maiden Ore Reserve of 2.2Mt at 3.58g/t gold for 259k 
+ounces for the initial stages of mining of the CMA orebody by 
+underground methods, beneath the existing CMA open pit. 
+On 23 August 2023, Perseus announced an increase to CMA 
+underground Ore Reserves beneath the existing CMA open 
+pit of 2.7Mt at 3.46 g/t gold for 300k ounces. The total CMA 
+underground Ore Reserve is now estimated by Perseus to be 
+4.9 Mt at 3.51g/t gold for 559koz. Readers are referred to ASX 
+release “Perseus Mining Announces Open Pit and Underground 
+Ore Reserve Increase at Yaouré”, dated 23 August 2023. The CMA 
+orebody remains open down plunge and down dip below the 
+current Indicated Mineral Resource, and further extensions to the 
+CMA underground Ore Reserves are expected with future drilling during 
+financial year 2024 (“FY24”).
+Feasibility-level studies on the CMA deposit at Yaouré (approximately 400 metres down dip from the base 
+of the open pit) have confirmed the economic and technical viability of underground mining. Resource 
+definition drilling during FY23 has added Mineral Resources and Ore Reserves down-dip of the FY22 CMA 
+underground Ore Reserves and readers are referred to ASX release “Perseus Updates Mineral Resource and 
+Ore Reserve Estimates” dated 24 August 2023  for additional details on the CMA underground project.
+More widely spaced drilling below the CMA underground Ore Reserve has shown that mineralisation 
+extends deeper allowing an extension to Inferred Mineral Resources at depth. Extension of Inferred Mineral 
+Resources and continued drilling success down-dip, provides strong encouragement for further expansion 
+of the CMA underground.
+The CMA underground Feasibility study (“FS”) and the Yaouré open pit expansion will be released in Perseus’ s 
+upcoming Yaouré Life of Mine (“LOM”) plan which is being prepared during the September 2023 quarter.
+
+
+=== PDF PAGE 15 ===
+13
+REVIEW OF OPERATIONS
+(continued)
+SISSINGUÉ  
+CÔTE D’IVOIRE
+Sissingué is located in northern Côte d’Ivoire 
+and lies within the Sissingué exploitation permit 
+that covers an area of 446 square kilometres, 
+bounded on one side by the international border 
+between Côte d’Ivoire and Mali. The exploitation 
+permit is located along a structural/stratigraphic 
+corridor within the Syama-Boundiali greenstone 
+belt approximately 42 kilometres south-
+southwest of the Syama gold mine in Mali and 
+65 kilometres west northwest of the Tongon 
+deposit in Côte d’Ivoire. Perseus owns an  
+86% interest in Sissingué, with a 10% free 
+carried interest held by the Ivorian government 
+and 4% owned by local interests.
+Perseus completed construction of infrastructure 
+required to support mining ore from the satellite 
+Fimbiasso East and West pits in the first half of  
+FY23. Mining commenced at Fimbiasso East 
+following this. The first ore from the Fimbiasso pits 
+was transported to the Sissingué mill for processing 
+in late March 2023.
+OPERATIONS
+Operating results at Sissingué for the year ending 
+30 June 2023 and the corresponding year ending in 
+2022 are summarised in Table 4 below.
+Table 4: Key Production Statistics – Sissingué 
+PARAMETER UNITS YEAR TO 30 JUNE 2023 YEAR TO 30 JUNE 2022
+Total ore and waste mined kt 7,985 3,550
+Ore mined kt 1,308 903
+Ore milled kt 1,663 1,421
+Milled head grade g/t gold 1.05 1.52
+Gold recovery rate % 91.9 89.0
+Gold produced ounces 51,411 61,653
+Perseus mined 7,985k tonnes of ore and waste 
+during the year. The ore tonnes mined were 
+predominantly made up of oxide ore tonnes sourced 
+from the Binkadi, Bagoé, West arm and Fimbiasso 
+pits, with only 10k tonnes being transitional ore. 
+Ore stockpiles plus crushed ore increased to 572k 
+tonnes of ore at an average grade of 0.85 g/t gold, 
+containing approximately 15,645 ounces of gold. 
+Total mill throughput for the year was 1,663k tonnes 
+of ore at an average grade of 1.05g/t gold, a 32% 
+decrease in grade from the previous year. 
+The average gold recovery rate of 91.9%, was 3.3% 
+higher than in the previous year. The decrease in 
+head grade was anticipated and was a result of 
+processing lower grade stockpiles whilst the ore 
+availability from Fimbiasso pits was ramping up.
+Gold production for the year was 51,411 ounces at an 
+AISC of US$1,569 per ounce. The 16.6% decrease 
+in gold production during the year, relative 
+to FY22, is mainly due to an expected 
+Burkina Faso
+Ghana
+Liberia
+Guinea
+Mali
+Gulf of Guinea
+Côte d’Ivoire
+Sissingué
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT
+
+=== PDF PAGE 16 ===
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT14
+decrease in the gold grade processed. Sissingué’s 
+AISC was 49% higher than in FY22 primarily due to 
+the decrease in the ounces of gold produced due 
+to the decreased head grade. Whilst Sissingué saw 
+an increase in cost and decrease in production, 
+production was within the target ranges set for  
+FY23, with costs slightly beating the guidance 
+provided to the market. A breakdown of the  
+financial statistics is provided in Table 5 below.
+BAGOÉ SATELLITE DEPOSIT
+Work to obtain an Exploitation Permit (“EP”) 
+covering the Bagoé exploration permit area 
+continued in FY23. Perseus has lodged all 
+documentation required for assessment of its 
+application for an EP for the Bagoé Project with 
+REVIEW OF OPERATIONS
+(continued)
+Table 5: Key Financial Operating Statistics - Sissingué 
+PARAMETER UNITS YEAR TO 30 JUNE 2023 YEAR TO 30 JUNE 2022
+Total gold sales Ounces 49,095 64,579 
+Average sales price US$ / ounce of gold sold 1,888 1,653 
+Production costs including:
+Mining cost US$ / tonne of material mined 4.05 5.58
+Processing cost US$ / tonne of ore milled 15.78 16.94
+G & A cost US$M / month 1.48 1.16
+Total production cost US$ / ounce 1,411 938
+Royalties US$ / ounce 98 98
+Sustaining Capital US$ / ounce 60 15
+All-in site cost US$ / ounce 1,569 1,051
+ 
+Unit mining and processing costs have decreased by 27% and 7% respectively from FY22, while there has 
+been a slight increase to G&A costs. 
+the Ivorian Department 
+of Mines, Petroleum and 
+Energy and it is currently 
+being assessed. Community 
+consultations with the 3 regions 
+likely to be impacted by the Bagoé 
+mining operation are underway and 
+progressing well, with the consultation 
+process successfully closed for the  
+Boundiali region. 
+An EP should be granted on completion of these 
+consultations and thereafter a Mining Convention 
+covering the operation will be negotiated. 
+Construction of infrastructure required to support a 
+mining operation at Bagoé will commence as soon 
+as possible following receipt of the Bagoé  
+Mining Lease.
+
+=== PDF PAGE 17 ===
+15
+REVIEW OF OPERATIONS
+(continued)
+EDIKAN  
+GHANA
+Edikan Gold Mine is a large-scale, low-grade  
+multi open-pit operation located in the Central 
+Region of Ghana, approximately 45 kilometres 
+southwest of the regional town of Obuasi, and 
+approximately 200 kilometres northwest of the 
+capital Accra. Perseus owns a 90% beneficial 
+interest in Edikan and the remaining 10%  
+interest is a free carried interest owned by  
+the Ghanaian government.
+OPERATIONS
+Operating results at Edikan for the year ending  
+30 June 2023 and the corresponding year ending in 
+2022 are summarised in Table 6 below.
+Table 6: Key Production Statistics - Edikan 
+PARAMETER UNITS YEAR TO 30 JUNE 2023 YEAR TO 30 JUNE 2022
+Total ore and waste mined kt 25,958 28,820
+Ore mined kt 6,933 4,157
+Ore milled kt 6,766 6,371
+Milled head grade g/t gold 1.06 0.78
+Gold recovery rate % 91.4 83.8
+Gold produced ounces 209,929 134,543
+Perseus mined 25,958k tonnes of ore and waste 
+during the year from the Fetish and AG pits, with 
+total ore mined of 6,933k tonnes at an average grade 
+of 1.05g/t gold. Ore stockpiles (including both ROM 
+stockpile and heap leach but excluding mineralised 
+waste) plus crushed ore increased by 28% or 287kt 
+from 1,037kt to 1,324kt. The average grade of the 
+stockpile at 30 June 2023 was  
+0.77g/t gold for approximately 24,188 ounces  
+of contained gold. 
+Mill throughput for the year was 6,766k tonnes 
+of ore grading on average 1.06 g/t of gold, a 
+36% improvement in grade from FY22. 
+The average gold recovery rate during the year was 
+91.4%, which was 9% improvement on FY22. 
+Gold production for the year was 209,929 ounces at 
+an AISC of US$1,076 per ounce. The 56% increase in 
+gold production from FY22 is due to a combination 
+of improved throughput, a higher average head 
+Côte d’Ivoire
+Ghana
+Togo
+Benin
+Burkina Faso
+Gulf of Guinea
+Niger
+Mali
+Nigeria
+Edikan
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT
+
+=== PDF PAGE 18 ===
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT16
+Table 7: Key Financial Operating Statistics - Edikan
+PARAMETER UNITS YEAR TO 30 JUNE 2023 YEAR TO 30 JUNE 2022
+Total gold sales Ounces 208,998 131,064
+Average sales price US$ / ounce of gold sold 1,787 1,669
+Production costs including:
+Mining cost US$ / tonne of material mined 4.27 3.68
+Processing cost US$ / tonne of ore milled 9.62 9.69
+G & A cost US$M / month 1.53 1.67
+Total production cost US$ / ounce 925 1,396
+Royalties US$ / ounce 122 109
+Sustaining Capital US$ / ounce 29 29
+All-in site cost US$ / ounce 1,076 1,534
+grade of processed ore, along with superior recovery 
+rates. The AISC is 29.9% lower than the previous 
+year, due to the notable improvements in head 
+grade and recovery rates which directly increased 
+the number of ounces produced without any extra 
+REVIEW OF OPERATIONS
+(continued)
+NKOSUO 
+The Nkosuo deposit is located approximately 7 kilometres north-northwest of the Edikan Gold Mine in  
+Ghana and added substantial Mineral Resources and Ore Reserves to Edikan at 30 June 2022. Readers 
+are referred to ASX announcement “Perseus increases Edikan’s Inventories of Mineral Resources and Ore 
+Reserves” dated 19 July 2022 for more information on the Nkosuo deposit. 
+Early in FY23, Perseus Mining announced the completion of the Nkosuo Feasibility Study, which was 
+submitted to the Ghanaian Minerals Commission with an application to include land covered by the current 
+Exploration Licence to Perseus’s existing Nanakaw Mining Lease (“ML”). 
+A proposed enlargement of the Nanankaw ML to incorporate a portion of the western arm of the Agyakusu 
+Prospecting Licence (“PL”), which includes the Nkosuo deposit, was approved by the Minister for Land  
+and Resources. This is an important milestone in the delivery of the Nkosuo deposit into the Edikan Life of 
+Mine (“LOM”).
+Planned processing of the Nkosuo Ore Reserves in the Edikan mill is expected to increase the life of the 
+Edikan operation by 18 to 24 months, extending the mine life to financial year 2027   . 
+effort or expenditure required. Edikan’s production 
+performance exceeded guidance by almost 4,000 
+ounces and achieved an AISC at the bottom of 
+the guidance range. The key financial operating 
+statistics for Edikan are summarised in Table 7.
+
+=== PDF PAGE 20 ===
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT18
+EXPLORATION 
+Perseus has an ambitious exploration  
+program with a strong pipeline of prospects  
+close to each of our operating mines, 
+demonstrating our Group’s potential for  
+organic growth. The exploration program is 
+focusing on targets within the existing mining 
+permits and/or within trucking distance, that have 
+the potential to organically increase the resources 
+and reserves, and ultimately life of  
+mine of our existing operations.
+YAOURÉ, CÔTE D’IVOIRE 
+Exploration activities at Yaouré during the year 
+focused on resource definition and extensional 
+programs on the Yaouré Exploitation Permit. 
+Perseus completed programs at the CMA Deeps 
+as well as the CMA North-West, CMA North and 
+CMA South deposits, which are all located within 
+2 kilometres of the Yaouré mill. More regional 
+programs consisted of generative work and  
+included mapping, sampling, ground magnetic 
+surveys and auger and air core drilling programs on 
+the Yaouré West Exploration Permit. A total of 391 
+Reverse Circulation / Diamond Drilling (“RC/DD”) 
+holes were drilled for an aggregate of 66,307 metres 
+on the Yaouré Permit and a further 94 Air Core  
+(“AC”) holes for an aggregate of 6,085 metres on  
+the Yaouré West Permit during the year. 
+During the year, Perseus continued to test 
+conceptual targets identified from the 2020 3D 
+seismic study - CMA Deeps program. In addition 
+to demonstrating the downdip continuity and 
+potential of the CMA structure at depth this work 
+returned a number of mineralised positions in the 
+hanging wall to the CMA lode. Results from a hole 
+drilled to test a low impedance zone in the  
+3D seismic data intersected a mineralised intrusion 
+at depth below the CMA deposit.
+At CMA North-West, RC/DD drilling targeted the 
+North-West extension of CMA where it parallels the 
+faulted contact between basalts and volcaniclastics 
+over a strike extension of 650m. Drilling achieved a 
+50m down-dip intercepts on 100m spaced sections 
+over a strike length of 650m. Results confirmed 
+the extension of CMA to the North-West with high 
+grades but over narrow intervals.
+At the CMA North underground prospect, RC/DD 
+drilling was completed to infill a gap in the existing 
+drill pattern and to achieve a 50-60m drill spacing 
+REVIEW OF OPERATIONS
+(continued)
+
+=== PDF PAGE 21 ===
+19
+REVIEW OF OPERATIONS
+(continued)
+across the lower part of the CMA Underground 
+Prefeasibility optimized Resource model  
+between 900mRL and 800mRL. The program 
+targeted the northern down-dip extension of the 
+CMA lode between 1,000mRL and 900mRL over  
+an initial strike length of 600m. Drilling was also 
+carried out to assess the extension at depth 
+of previously untested potentially economic 
+mineralisation in the southern half of the CMA 
+structure. Phase 1 of this program drilled the target 
+area over 100m along strike and 120m downdip. 
+Results to date from the infill drilling program 
+were generally consistent with those previously 
+encountered in both thickness and grade. Further 
+drilling will be undertaken in Q3 2023 to test down 
+dip and plunge continuity. The orebody remains 
+open at depth. At the Yaouré Pit prospect, a RC/
+DD drill campaign totalling 22,084 metres was 
+completed during FY23 at the adjacent Yaouré 
+open pit has resulted in 6.9Mt at 1.82g/t gold for 
+403k ounces of additional Yaouré open pit Ore 
+Reserves (separate to the CMA open pit). Yaouré 
+open pit Ore Reserves now total 11.8Mt at 1.49g/t gold 
+for 565k ounces. The increase to Yaouré Open pit 
+Ore Reserves is based upon conversion of Inferred 
+Mineral Resources immediately beneath the existing 
+Yaouré open pit to Indicated Mineral Resources.  
+The Yaouré open pit expansion will be released 
+along with the CMA underground feasibility study in 
+Perseus’s upcoming Yaouré LOM plan which is being 
+prepared during the September 2023 quarter.
+On the Yaouré West Exploration Permit, early- 
+stage exploration was carried out: this included 
+mapping and soil sampling, ground magnetic 
+survey as well as auger and AC drilling programs. 
+Additional investigation will be envisaged during  
+the next financial year.
+SISSINGUÉ AREA, CÔTE D’IVOIRE 
+On the Sissingué Exploitation Permit a review of 
+historical data has resulted in a number of priority 
+“near mine” targets being identified. These targets 
+are currently being followed up with a ~10,000m RC 
+drill program. Results are expected to be available  
+in the September 2023 quarter.
+On the Bagoé Exploration Permit a small auger 
+program was conducted over the Woufiré and 
+Brigitte West targets. Results from this program 
+were generally disappointing. 
+A ground magnetics survey was conducted on 
+the Mahalé Exploration Permit, located east of the 
+Fimbiasso mine, to better define an interpreted 
+intrusive. A number of targets have been identified 
+that will be followed up in  the December  
+2023 quarter. 
+EDIKAN, GHANA
+During the year, exploration focused on generating 
+and then testing mineralised intrusive bodies within 
+structural corridors. Work consisted of mapping and 
+geochemical sampling, auger and RC/DD drilling. 
+During the year a total of 2,488 soil samples, 735 
+auger holes for an aggregate of 5,055 metres and 
+69 RC/DD holes for an aggregate of 6,984.30 metres 
+were drilled. 
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT
+
+=== PDF PAGE 22 ===
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT20
+REVIEW OF OPERATIONS
+(continued)
+Domenase Prospecting Licence  
+Perseus reviewed and validated historical data, 
+completing mapping and soil sampling programs 
+which identified potential areas for drill testing. 
+Drilling programs aimed at providing a preliminary 
+assessment of three mineralized intrusive bodies, 
+namely Besease, Dompoase and Treposo, located 
+within deformation corridors consisted of 41 holes 
+for an aggregate of 4,039.9 metres were completed. 
+The style of mineralisation encountered to date is 
+encouraging and similar to other economic deposits 
+in the area, with gold having strong association 
+with disseminated sulphide and quartz vein density. 
+Further drilling is scheduled during the December 
+2023 quarter. 
+Agyakusu DML Prospecting Licence   
+A small soil sampling program was designed to test 
+a previously untested portion of the licence - results 
+were generally disappointing. 
+An auger drill program designed to test high priority 
+gold-in soil anomalies along the main structural/
+intrusive corridor extending southwest from the 
+Nkosuo prospect into the adjoining Agyakusu DML 
+permit was completed. The program comprised 681 
+holes for an aggregate of 4,683 metres. A number of 
+high priority targets have been defined which will 
+be evaluated with RC drilling during the December 
+2023 quarter. 
+Agyakusu AM Prospecting Licence   
+In the first half of FY23, Perseus completed drilling 
+aimed at testing the area to the southwest of the 
+Nkosuo deposit. A total of 21 RC/DD, holes were 
+completed for an aggregate of 1,936.30 metres. 
+While several of the holes on the northern two  
+most drill traverses of this program did intersect  
+the southern extension of the Nkosuo Granite,  
+most holes intersected metasediments. 
+Perseus also completed a small auger drilling 
+program, designed to test a geochemical soil 
+anomaly ~500m west of the Nkosuo deposit. Initial 
+indications suggest a deeper AC/RC program will  
+be required to properly evaluate the area.
+Nsuaem Prospecting Licence   
+Exploration has focused on a mineralised intrusive 
+located within a deformation corridor. A total of 7  
+RC/DD holes have been drilled for an aggregate of 
+918.10 metres. Holes targeted an intrusive located 
+within a mineralised structure south of Akyease. 
+Assay results received to date are considered 
+encouraging and will be followed up by further 
+drilling during the December 2023 quarter.
+
+
+=== PDF PAGE 23 ===
+21
+REVIEW OF OPERATIONS
+(continued)
+MEYAS SAND GOLD PROJECT, SUDAN
+Most work at Meyas Sand focused on the development of the GSS deposit, where Perseus completed 
+infill resource definition drilling, sterilisation trenching and drilling, hydrogeological, metallurgical, and 
+geotechnical work. A total of 45 trenches for 5,019 linear metres and 163 RC/DD holes for an aggregate of 
+20,286.40 metres were drilled. 
+Assay results received to date for GSS infill drilling, while incomplete, are in line with expectations and 
+confirm and support previous grade and widths. Assay results for sterilisation holes received to date  
+have not returned any significant values.
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT
+
+=== PDF PAGE 24 ===
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT22
+REVIEW OF OPERATIONS
+(continued)
+GROUP ORE RESERVES  
+AND MINERAL RESOURCES 
+Perseus FY23 Mineral Resources and Ore Reserves were released in August 2023, and readers are 
+referred to ASX release “Perseus Mining Updates Mineral Resources and Ore Reserves” dated 24 August 
+2023  for further details.  Perseus estimates of the Mineral Resources and Ore Reserves at each of its 
+West African operations are summarised in Table 8 and Table 9 below. Foreign Estimates are stated 
+for Meyas Sand Gold Project (formerly Block 14) Mineral Resource and Mineral Reserves in the Foreign/
+Historical Estimates  subsection.
+DEPOSIT
+MEASURED RESOURCES INDICATED RESOURCES MEASURED & INDICATED 
+RESOURCES INFERRED RESOURCES
+QUANTITY
+MT
+GRADE
+G/T GOLD
+GOLD
+‘000 OZ
+QUANTITY
+MT
+GRADE
+G/T GOLD
+GOLD
+‘000 OZ
+QUANTITY
+MT
+GRADE
+G/T GOLD
+GOLD
+‘000 OZ
+QUANTITY
+MT
+GRADE
+G/T GOLD
+GOLD
+‘000 OZ
+Edikan 15.6 1.07 534 46.6 1.02 1,523 62.2 1.03 2,057 6.2 1.6 311
+Sissingué3 3.5 1.63 182 2.4 1.87 144 5.9 1.73 326 0.3 1.8 15
+Yaouré 4.4 0.84 119 50.3 1.66 2,684 54.7 1.59 2,804 11.3 1.9 701
+Total 23.5 1.11 835 99.3 1.36 4,351 122.8 1.31 5,187 17.8 1.8 1,027
+Table 9: Group Ore Reserves 1,2,3
+DEPOSIT
+PROVED PROBABLE PROVED+PROBALE
+QUANTITY
+MT
+GRADE
+G/T GOLD
+GOLD
+‘000 OZ
+QUANTITY
+MT
+GRADE
+G/T GOLD
+GOLD
+‘000 OZ
+QUANTITY
+MT
+GRADE
+G/T GOLD
+GOLD
+‘000 OZ
+Edikan  7.4 1.07 255 25.0 1.09 874 32.5 1.08  1,129 
+Sissingué 3  2.7  1.72  149  1.5  2.04  98  4.2  1.83  247 
+Yaouré  4.4  0.84  119  32.8  1.85  1,953  37.2  1.73  2.072 
+Total  14.6  1.12  523  59.3  1.53  2,925  73.8  1.45  3,448 
+ 
+Notes for Tables 8 and 9: 
+1 Refer to Notes to individual tables in the press release date 24 August 2023.
+2. Mineral Resources are inclusive of Ore Reserves.
+3. Sissingué Mineral Resources and Ore Reserves include the Fimbiasso and Bagoé Projects in addition to the Sissingué Gold Mine.
+4. The Company holds 90% of Edikan Gold Mine (EGM), 86% of Sissingué Gold Mine (SGM) and 90% of Yaouré Gold Mine (YGM).
+5. Excludes Foreign/Historical Estimates
+GOVERNANCE AND INTERNAL CONTROLS FOR RESERVE  
+AND RESOURCE ESTIMATES 
+Perseus’s Mineral Resource and Ore Reserve estimates are prepared by suitably qualified external 
+consultants and Perseus personnel using industry standard techniques in accordance with the JORC Code 
+and the National Instrument 43-101 – Standards of Disclosure for Mineral Projects (“NI 43-101”). The estimates 
+are subject to internal controls and sign off processes both at a site and corporate level and reviewed by the 
+Technical Committee of the Board. Perseus’s internal systems and controls are reviewed on a regular basis 
+and improvements are implemented as deemed appropriate.
+Table 8: Perseus Mining Mineral Resources1,2,4,5
+
+=== PDF PAGE 25 ===
+23
+REVIEW OF OPERATIONS
+(continued)
+FOREIGN/HISTORICAL ESTIMATES 
+During FY22, Perseus acquired Orca Gold Inc. (“Orca”) as announced on 28 February 2022  
+(see news release “Perseus Enters Into Agreement to Acquire Orca Gold Inc.”).
+The primary asset acquired from Orca is a 70% interest in the Meyas Sand Gold Project (formerly Block 14) 
+located in northern Sudan near the border with Egypt. Orca announced completion of a feasibility study in 
+accordance with National Instrument 43-101 (“NI 43-101”) on the Block 14 Project on 14 September 2020.
+The MSGP is a large and scalable resource with a Mineral Resource Estimate consisting of an Indicated 
+resource of 79.9Mt grading 1.3g/t gold for 3.3M ounces of gold and an Inferred Resource of 18.5Mt grading 
+1.2g/t gold for 0.7M ounces of gold. The MSGP has a Probable Mineral Reserve Estimate1 of 79.9Mt grading 
+1.1g/t gold for 2.9M ounces of gold.
+The Information in this report relating to Mineral Resource Estimates for the MSGP is contained in a  
+technical report (“Feasibility Study”) entitled “Feasibility Study, NI 43-101 Technical Report, Block 14 Gold 
+Project, Republic of Sudan” prepared by Lycopodium Minerals Pty Limited and is effective as of 31 August 
+2020. As such, it is reported in accordance with the requirements applying to foreign estimates in the ASX 
+Listing Rules (the “Foreign Estimate”). It is not reported in accordance with the JORC Code. A competent 
+person has not done sufficient work to classify the resource  in accordance with the JORC Code and it 
+is uncertain that following evaluation and/or further exploration work that the estimate will be able to 
+be reported as a Mineral Resource or Ore Reserve in accordance with the JORC Code. This report and all 
+technical information regarding Orca’s NI 43-101 have been reviewed and approved by Adrian Ralph and 
+Hans Andersen, each a Qualified Person for the purposes of NI 43-101.
+ 
+Table 10: Summary of Block 14 Project Mineral Resource 
+INDICATED INFERRED
+MT AU G/T AG G/T AU KOZ AG KOZ MT AU G/T AG G/T AU KOZ AG KOZ
+Oxide 10.2 1.35 1.49 443 487 1.1 1.0 1.2 34 41
+Trans. 13.4 1.22 1.33 527 575 1.5 1.0 1.2 50 57
+Fresh 56.3 1.31 1.82 2,371 3,296 15.9 1.2 1.6 626 838
+Total 79.9 1.30 1.70 3,342 4,358 18.5 1.2 1.6 711 936
+ 
+Notes:
+a. Based on September 2018 estimates of Galat Sufar South and Wadi Doum Mineral Resources by MPR Geological Consultants Pty Ltd.
+b. 0.6 g/t gold cut-off grade applied to all material types.
+c. Estimates are not depleted for artisanal mining, the impact of which is not considered material.
+d.  Galat Sufar South Mineral Resource estimates are truncated at 350 m depth, with around 90% of Indicated and Inferred resources 
+occurring at depths of less than 240 and 300 m respectively. Wadi Doum estimates extend to around 255 m depth, with around 
+90% of Indicated and Inferred resources occurring at depths of less than 115 m and 190 m respectively. The depth limits imposed 
+on the estimates are considered to largely confine the estimates to material with reasonable prospects of eventual economic 
+extraction.
+e.  Indicated Mineral Resources are inclusive of Mineral Reserves.
+f.  Rounding of numbers to appropriate precisions may have resulted in apparent inconsistencies.
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT
+
+=== PDF PAGE 26 ===
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT24
+REVIEW OF OPERATIONS
+(continued)
+Table 11: Summary of Block 14 Project Mineral Reserves 
+PROJECT CLASSIFICATION
+OXIDE TRANSITIONAL FRESH TOTAL
+‘000
+TONNES AU G/T ‘000
+TONNES AU G/T ‘000 
+TONNES AU G/T ‘000
+TONNES AU G/T
+Main Probable 4,347 1.27 5,088 1.19 13,488 1.31 22,923 1.28
+East Probable 8,302 0.89 11,236 0.89 30,729 1.05 50,267 0.99
+North East Probable 1,606 0.84 2,192 0.85 367 0.90 4,166 0.85
+Total GSS Probable 14,255 1.00 18,516 0.97 44,584 1.13 77,356 1.07
+Wadi 
+Doum Probable 527 1.90 119 2.37 1,941 2.49 2,588 2.36
+Block 14 
+Total Probable 14,783 1.03 18,635 0.98 46,525 1.19 79,943 1.11
+ 
+Notes:
+a. Based on Mineral Reserve Statement 7 November 2018. 
+b. CIM Definition Standards were followed for the classification of Mineral Reserves.
+c. Mineral Reserves were optimised using a gold price of $1,100 per ounce.
+d. Mining Cut-off grades vary between 0.32g/t gold and 0.90g/t gold.
+e. Rounding of numbers to appropriate precisions may have resulted in apparent inconsistencies.
+
+
+=== PDF PAGE 27 ===
+25
+RISK MANAGEMENT 
+ENTERPRISE RISK MANAGEMENT
+A comprehensive understanding of our risks and opportunities ensures better decision making, 
+clarity on accountabilities, and provides a source of competitive advantage. We manage the risks and 
+uncertainties inherent in operating our business in line with an Enterprise Risk Management (“ERM”) 
+Framework, which is based on ISO 31000:2009. 
+The ERM Framework is an integral part of the overall Perseus Management System and is where we work 
+to balance realising opportunities to grow and protect value, which is essential to the sustainable growth 
+and success of our Company. Risks are monitored by our Board. The Audit and Risk Committee assists the 
+Board to oversee enterprise risk management in line with the approved ERM Framework. A key role of the 
+Board, the Audit and Risk Management Committee and senior management is to set a strong culture that 
+promotes risk management as an essential part of business operations. 
+RISK MANAGEMENT
+Figure 1 Perseus Governance and Management Structure
+Perseus Board 
+of Directors
+Board 
+Committees
+External Audit
+Compliance
+Internal Audit
+TechnicalRemunerationNomination Audit  
+and Risk
+Senior 
+Leadership Team
+Key components of our ERM Framework include risk identification, analysis, monitoring and reporting  
+(refer Figure 2 below).
+Figure 2: ERM Framework
+Risk Identification
+Risk Analysis
+Risk Evaluation
+Risk Treatment
+Establish the Context
+Communication 
+and
+Consultation
+Monitor and 
+Review
+Risk Assessment
+Risk Assessment
+Sustainability*
+*The Sustainability Committee was 
+approved post 30 June 2023, at the 
+August 2023 Board meeting.
+Managing 
+Director & 
+CEO
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT
+
+=== PDF PAGE 28 ===
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT26
+RISK MANAGEMENT
+(continued)
+Likelihood
+Consequence
+Highly Unlikely Unlikely Possible Likely Almost certain
+Category 5
+Category 4
+Category 3
+Category 2
+Category 1
+The ERM Framework provides for risk management across  
+two separate levels - Enterprise Level Risks and Operational and 
+Functional Level Risks:
+ •   Enterprise Level Risks are primarily caused by events that effect the viability of the whole organisation 
+and are assessed and monitored by the Board and Senior Leadership Team 
+ •   Operational and Functional Level Risks are inherent in the ongoing activities of the business and 
+associated with day-to-day performance, with ongoing assurance to the Board they are identified  
+and managed appropriately.
+Figure 3: Risk Matrix Framework
+HIGH HIGH
+HIGH
+MEDIUM
+MEDIUM MEDIUM
+MEDIUM MEDIUM HIGH
+HIGH
+MEDIUM
+
+
+=== PDF PAGE 29 ===
+27
+RISK MANAGEMENT
+(continued)
+Figure 4: A Summary of our Current Enterprise Level Risks
+RISK CONTROL MEASURES AND MANAGEMENT SYSTEMS
+RESIDUAL 
+RISK LEVEL
+Health, Safety and 
+Wellbeing of our 
+employees, contractors 
+and communities
+•  Health and safety governance framework aligned with ISO 45001:2018, with ultimate aim of zero harm.
+•  Environmental and Social Impacts Assessments conducted to international standards, embedded in our environment 
+and community governance. 
+•  Sustainability Committee established in August 2023.
+Stakeholders and 
+Community
+•  Environmental and Social Impacts Assessments conducted to international standards, embedded in our environment 
+and community governance.
+•  Appropriate governance including community and social performance framework, policies, and standards in place.
+•  Actively engage with our communities, traditional authorities, Governments and other stakeholders.
+•  Seek to maximise benefits to our host communities and countries through employment and training, procurement  
+and social investment.
+• Actively engage investors and analysts and other stakeholders on a wide range of financial and ESG issues.
+Political and  
+Sovereign Risk
+• Continual engagement with governments in countries we operate in.
+• Monitoring of country risk trends and emerging issues.
+• Ongoing Diversification of portfolio.
+Ethical Culture, 
+Compliance and 
+Conduct
+•  Code of Business Conduct, Anti-Bribery and Corruption Management System, Whistleblower Policy, Compliance 
+Management System and transparently reporting our economic contributions. 
+•  Financial systems controls.
+•  Clearly articulated organisational values (Teamwork, Integrity, Commitment and Achievement).
+Environmental 
+Stewardship: Including 
+water stewardship, 
+hazardous materials, 
+biodiversity, air, land 
+use, closure and  
+climate change
+•  Governance framework aligned with ISO 14001:2015 underpinned by Environmental and Social Impacts Assessments 
+conducted to international standards.
+•   Assessed and disclosed the risks of climate change to our business using the Taskforce on Climate-Related Financial 
+Disclosures framework.
+•   Tailings Storage Facilities (“TSF”) managed under the guidance GISTM and third party audited to certify they are suitable 
+for the continual impoundment of tailings
+Financial  
+Sustainability
+•  Treasury Management processes including commodity hedging of a portion of our production.
+•  Financial forecasting assessing performance against budgets. 
+•  Ongoing Diversification of portfolio.
+•  Board and Audit & Risk Committee oversight.
+•  Ongoing engagement with Governmental authorities.
+Resource Growth  
+and Replenishment
+• Board and Technical Committee oversight and guidance.
+•  Resource and Reserve replenishment & extension program and associated funding.
+• Continuous review of Merger and Acquisition opportunities.
+Attracting and  
+Retaining Talent
+• Market Competitive Remuneration and Employee benefits.
+• Talent attraction, development, retention and succession planning.
+• Constant and ongoing engagement with employees.
+Operational and  
+Asset Performance
+• Established Life of Mine (“LOM”) plans, budgeting and forecasting.
+• Operational management and reporting.
+• Contractor Management.
+• Annual audits of TSF by external independent parties.
+• Maintenance schedules and processes.
+Security of our  
+People and our  
+Business
+•  Monitoring security threats and emerging issues through global and national advisory services, government  
+security intelligence and local engagement.
+•  Security teams and management plans at each operation; with regional oversight. 
+•  In-country travel risk management programs, with 3rd Party emergency assistance, evacuation, and personnel  
+tracking support.
+• Staff security awareness training programs; and internal security audit programs.
+• Security approach aligned with the Voluntary Principles of Security and Human Rights.
+Cybersecurity • Perseus engages specialist partners and solutions to reduce the impact and likelihood of a potential cyber security event.
+•  Alignment to frameworks such as ISO27001 and implementation of the majority of the ASD Essential 8 
+recommendations. By doing so, Perseus ensures a balanced protection of confidentiality, integrity, and availability of the 
+data and systems. This is supported by routine independent reviews and proactive monitoring for early identification of 
+potential events.
+•  Industry leading security appliance hardware, end point protection and management software and provides on- going 
+user awareness and training sessions.
+HIGH
+HIGH
+MED
+MED
+MED
+MED
+MED
+MED
+MED
+HIGH 
+INCREASED
+MED
+PERSEUS MINING LIMITED | 2023 ANNUAL REPORT
+
+=== PDF PAGE 159 ===
+PERSEUS MINING LIMITED  |  2023 ANNUAL REPORT 157157
+INDEPENDENT AUDITOR’S REPORT (continued)
+ANNUAL FINANCIAL REPORT
+(continued)
+Key audit matters 
+Key audit matters are those matters that, in our professional judgement, were of most signifi cance in 
+our audit of the financial report for the current period. The key audit matters were addressed in  the 
+context of our audit of the financial report as a whole, and in forming our opinion thereon, and we do 
+not provide a separate opinion on these matters. Further, any commentary on the outcomes of a 
+particular audit procedure is made in that context. We communicated the key audit matters to the Aud it 
+and Risk Committee. 
+Key audit matter How our audit addressed the key audit matter 
+Rehabilitation provision 
+(Refer to note 11) $63.9m 
+As a result of its mining and processing 
+operations, the Group is obligated to restore and 
+rehabilitate the environment disturbed by these 
+operations and remove related infrastructure. 
+Rehabilitation activities are governed by a 
+combination of legislative requirements and 
+Group policies. 
+As at 30 June 2023, the consolidated statement 
+of financial position included provisions for such 
+obligations of $63.9 million. 
+This was a key audit matter given the 
+determination of these provisions required 
+significant judgement by the Group in the 
+assessment of the nature of the restoration 
+activities required and the valuation at the present 
+value of a future obligation that necessitates 
+estimates of the cost of performing the work 
+required, the timing of future cash flows and the 
+appropriate risk free discount rate. 
+We performed the following procedures, amongst 
+others: 
+● Developed an understanding and evaluated 
+the appropriateness of how the Group 
+identified the relevant methods, assumptions 
+or sources of data, and the need for changes 
+in them, that are appropriate for developing the 
+rehabilitation provision in the context of the 
+Australian Accounting Standards.
+● Obtained the Group’s calculations of the 
+rehabilitation provision. We checked the 
+mathematical accuracy of these calculations 
+and whether the timing of the cashflows was 
+consistent with the current life of mine plans.
+● Evaluated the appropriateness of significant 
+assumptions used to develop the rehabilitation 
+provision in the context of Australian 
+Accounting Standards. This included:
+● Comparing the cost assumptions used, on 
+a sample basis, to comparable data from 
+external parties and management’s experts;
+● Discussing with management, the plans, 
+goals, and objectives of the entity, and 
+considered the feasibility and intent to carry 
+out such courses of action, including 
+consistency with the approved life of mine 
+plan;
+● Assessed provision movements in the year 
+relating to closure and rehabilitation 
+obligations to determine whether they were 
+consistent with our understanding of the 
+Group’s operations and associated 
+rehabilitation plans; and
+
+=== PDF PAGE 160 ===
+PERSEUS MINING LIMITED  |  2023 ANNUAL REPORT158158
+INDEPENDENT AUDITOR’S REPORT (continued)
+ANNUAL FINANCIAL REPORT
+(continued)
+Key audit matter  How our audit addressed the key audit matter  
+● Considered  t he  appropriateness  of  t he  
+discount  r ates  a nd  inflation  rates  utilised  in  
+calculating  the  provision  by  c omparing  t hem 
+to  current  market  c onsensus.
+Other information  
+The directors are responsible for the other information. The other information comprises the 
+information included in the annual report for the year ended 30 June 2023, but does not include the 
+financial report and our auditor’s report the reon.  
+Our opinion on the financial report does not cover the other information and accordingly we do not 
+express any form of assurance conclusion thereon through our opinion on the financial report. We 
+have issued a separate opinion on the remuneration rep ort  and a limited assurance conclusion on 
+identified Subject Matter Information within the Sustainable Development Report  section of  the a nnual 
+r eport . 
+In connection with our audit of the financial report, our responsibility is to read the other  information 
+and, in doing so, consider whether the other information is materially inconsistent with the  financial 
+report or our knowledge obtained in the audit, or otherwise appears to be materially misstated.  
+If, based on the work we have performed on the other information that we obtained prior to the date of 
+this auditor’s report, we conclude that there is a material misstatement of this other inf ormation, we are 
+required to report that fact. We have nothing to report in this regard.  
+Responsibilities of the directors for the financial report  
+The directors of the Company are responsible for the preparation of the financial report that gives a 
+true and fair view in accordance with Australian Accounting Standards and the Corporations Act 2001  
+and for such internal control as the directors determine is necessary to enable the preparation of the 
+financial report that gives a true and fair view and is free from material misstate ment, whether due to 
+fraud or error.  
+In preparing the financial report, the directors are responsible for assessing the abili ty of the Group to 
+continue as a going concern, disclosing, as applicable, matters related to going concern and using t he 
+going concern basis of accounting unless the directors either intend to liquidate the Group or to cease 
+operations, or have no realistic alternative but to do so.  
+● Evaluated the competency, capabilities, 
+objectivity, and nature of the work of 
+management’s internal and external experts 
+retained to assist with the preparation of the 
+estimate.
+● Assessed  t he  adequacy  of  the  disclosures 
+m ade  in the  financial  r eport  in  light  of t he 
+requirements  of  Australian  Accounting 
+Standards.

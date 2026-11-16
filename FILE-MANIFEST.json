@@ -1,0 +1,782 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 125,
+    "sha256": "fd39e50dcb6f3efb319cc4967577fc7903ef4bb3d71a76be2bc148d57fcb64c1"
+  },
+  {
+    "path": "README.md",
+    "bytes": 1699,
+    "sha256": "abfa51435bdbb56dc0f979438ce9dedff7166c35ae9a19dd8fd4bbd42606b2d6"
+  },
+  {
+    "path": "closure_review/README.md",
+    "bytes": 5949,
+    "sha256": "8f677d88bda173bded9287cea452c57f78773ddd59ccdc2998b52870304809e7"
+  },
+  {
+    "path": "closure_review/Start AtlasIQ.command",
+    "bytes": 259,
+    "sha256": "829f73de05563f1aacc4e00864cb0382fba14d17b44d067a57d4c475b6643a2b"
+  },
+  {
+    "path": "closure_review/Start with OpenAI.command",
+    "bytes": 733,
+    "sha256": "271beaf54057b0c9485b595c327e6df0ce2898822432289da8cab6f616fb4862"
+  },
+  {
+    "path": "closure_review/__init__.py",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "closure_review/__main__.py",
+    "bytes": 8517,
+    "sha256": "0a4dfbe866a9d75d21fc725cb3e80eef79a47f70141fe03710df6e82d52de6e9"
+  },
+  {
+    "path": "closure_review/data/baseline.csv",
+    "bytes": 1555,
+    "sha256": "0154b1780c3a24c5b388753729dbeaeaaeba9a52ccebe8091fd5eaa4782f2be7"
+  },
+  {
+    "path": "closure_review/data/current.csv",
+    "bytes": 1247,
+    "sha256": "95e988867f01ff66cb596c3dd09d23907de3275f9f791c808f5f67795db22b30"
+  },
+  {
+    "path": "closure_review/data/provenance.json",
+    "bytes": 896,
+    "sha256": "062e53d0122f0475789c360b654148498c094dcee5cbb1bfc7ef1d5afcece1c5"
+  },
+  {
+    "path": "closure_review/engine.py",
+    "bytes": 6715,
+    "sha256": "e51d18d80074911c70948918b9edc3bd245ead7ec1dd5b343b4abb02b285c576"
+  },
+  {
+    "path": "closure_review/requirements.txt",
+    "bytes": 16,
+    "sha256": "06d28d69e958deafb09f0a44fcae9b548f15e4debc14ebc39aad5f0934856fbf"
+  },
+  {
+    "path": "closure_review/static/app.js",
+    "bytes": 14240,
+    "sha256": "8198dd79ef5b333dfea49aef4576d74f5b61cf5d6d85e61956315d8c071332b7"
+  },
+  {
+    "path": "closure_review/static/assets/FONT-LICENSE.txt",
+    "bytes": 4495,
+    "sha256": "564ce565c371c5e5bbf286006565a7c9aa55a9f56e7ca58d56e05d649dd61a72"
+  },
+  {
+    "path": "closure_review/static/assets/SpaceGrotesk.ttf",
+    "bytes": 136676,
+    "sha256": "acad6de1fc93436f5c0f1f4137751ef04f1aea3063e7036535970ffcfbd79f72"
+  },
+  {
+    "path": "closure_review/static/assets/logo.svg",
+    "bytes": 7100,
+    "sha256": "c1db5d3f4518e9e5e5f3f204f5cb7f598f497657443a21011f85899c8e38962a"
+  },
+  {
+    "path": "closure_review/static/assets/yaoure-2018.pdf",
+    "bytes": 2697871,
+    "sha256": "693b3935b93013a03a8a81bc7623d3f8a332f051cbe8b47a95adfc73c7838305"
+  },
+  {
+    "path": "closure_review/static/index.html",
+    "bytes": 6758,
+    "sha256": "ce780eb1ef400ae50207a734da34fdbb1bb1d068f4a2041bd00892d1838da3be"
+  },
+  {
+    "path": "closure_review/static/styles.css",
+    "bytes": 16384,
+    "sha256": "a7a65cd847164ba583c54c212b0c5fa75a22da61661949226b397aa1203fa9f7"
+  },
+  {
+    "path": "closure_review/static/workbooks.js",
+    "bytes": 9081,
+    "sha256": "648f105db892bbc49f7ce5f3467df6131221eea9e1bcc2ee0e862acc11a5a262"
+  },
+  {
+    "path": "closure_review/verification/RESULTS.md",
+    "bytes": 1267,
+    "sha256": "fbfd4dd29ba197347d13c7185259ba2326a59c6021029d4e86707cb821b77824"
+  },
+  {
+    "path": "closure_review/verification/desktop.png",
+    "bytes": 139714,
+    "sha256": "324fe70ecafd6f8eb74e38edc30c87ee603afe5063f3d09fda5d7a2fa69e174f"
+  },
+  {
+    "path": "closure_review/verification/mobile.png",
+    "bytes": 100156,
+    "sha256": "443450a80209d66eff52b7d530ebd4defc83920407835568175f45717c22d1d0"
+  },
+  {
+    "path": "closure_review/verification/workbooks/RESULTS.md",
+    "bytes": 1157,
+    "sha256": "83f1e44ca49f1ae727a0421e42fab99996a3a9d19999219992d505f10c4bfe49"
+  },
+  {
+    "path": "closure_review/verification/workbooks/cell-trace-desktop.png",
+    "bytes": 67395,
+    "sha256": "d898cd6df619aa616683ccfae326da56f36733ba297d976741df2e011144832f"
+  },
+  {
+    "path": "closure_review/verification/workbooks/illustrative-baseline.xlsx",
+    "bytes": 5611,
+    "sha256": "592c567c997c03c936cd72955cf34039bcf4f96f7a53d248da99a49c77764b60"
+  },
+  {
+    "path": "closure_review/verification/workbooks/illustrative-current.xlsx",
+    "bytes": 5611,
+    "sha256": "7467f9c2c06412079de696a1aa3d480f2a77d4dd485e4f8db9e709679f036c7c"
+  },
+  {
+    "path": "closure_review/verification/workbooks/intake-desktop.png",
+    "bytes": 102944,
+    "sha256": "91607d0207e80013bf0123fdac78a68b11aa7eff21d77475de6455ac0f8a2bf0"
+  },
+  {
+    "path": "closure_review/verification/workbooks/intake-mobile.png",
+    "bytes": 44924,
+    "sha256": "12f591efee99e0cc25a88c2be21cbfbe5ec92f416d330e21de14031081867121"
+  },
+  {
+    "path": "closure_review/workbook_service.py",
+    "bytes": 3439,
+    "sha256": "c77f5d8b3c8df3aa648ce19bdc74c1267a10a39afdcd027bcbf0de1dfa672a7e"
+  },
+  {
+    "path": "closure_review/workbooks.py",
+    "bytes": 15303,
+    "sha256": "7487e62c3c8db60cff211c33c92fcf007f5604f7ad6f6ee9056d632fa813c3a4"
+  },
+  {
+    "path": "rehabilitation-plan/outputs/Mining_Rehabilitation_Project_Plan.docx",
+    "bytes": 41066,
+    "sha256": "e15c94639b9dd8e12a549e3543e9e5125b7e53ee49fed16dbc82e90de449de96"
+  },
+  {
+    "path": "rehabilitation-plan/work/create_plan.py",
+    "bytes": 10929,
+    "sha256": "66fbd4ac72d41725310a3be0214eb844a57f62f3fd2b63360ef830373b42b6a6"
+  },
+  {
+    "path": "rehabilitation-plan/work/rendered/page-1.png",
+    "bytes": 241591,
+    "sha256": "821235758286ed3e1bed54e30f2ae13d90e531e1d3f1656493009b685df70483"
+  },
+  {
+    "path": "rehabilitation-plan/work/rendered/page-2.png",
+    "bytes": 276837,
+    "sha256": "df184fc5dab04bd6dcb3088ce041638c2fa121f34269c4e0af624ad8c1e56a1e"
+  },
+  {
+    "path": "rehabilitation-plan/work/rendered/page-3.png",
+    "bytes": 246437,
+    "sha256": "2b38cb622de5551693751da479df336afb9271415c154845328bad5bf524447e"
+  },
+  {
+    "path": "rehabilitation-plan/work/rendered/page-4.png",
+    "bytes": 298813,
+    "sha256": "6dc780f94bcde503f8e943e7e4076c69970caacab1ee71d9d85ecf46d50f60ca"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/Perseus-recurring-problems-review.md",
+    "bytes": 11124,
+    "sha256": "df0e4428f4080ae1deaf740029de6ae11a486d7a5ce712401affaf6d952a890c"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/additional-urls.json",
+    "bytes": 308,
+    "sha256": "225807207e79be16946d863059b08c298f12d91d4849fc9699a5b8456223544e"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/collect_reports.py",
+    "bytes": 4565,
+    "sha256": "5849a128a6e145718bf225fb2ca776ed707e5d1607536284c475ebe49722c674"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/focus-2018.txt",
+    "bytes": 62030,
+    "sha256": "c8aa33850461a9d1e80d8d419512d88d60b18362f7158131ff2b193eafe65f37"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/focus-2019.txt",
+    "bytes": 56031,
+    "sha256": "c06738ac4b226101c72c2f291dcf72e38eb1a87cf9053228c5e7a2f4d52d6292"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/focus-2020.txt",
+    "bytes": 135971,
+    "sha256": "3c5346e9196b743ac084c5ffe4a4c5110d178957fd96695790ae45d84676e99c"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/focus-2021.txt",
+    "bytes": 83725,
+    "sha256": "e007439fc21784cd358b633519a366bd4dd04f10b3c08920546f5190e8576760"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/focus-2022.txt",
+    "bytes": 59390,
+    "sha256": "9b461699e4fcbf3aa0b564810383abb3cedfeeee2b555be80112e4c3d86703c9"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/focus-2023.txt",
+    "bytes": 61462,
+    "sha256": "ededf00a3aec6b52a2eac6c329aa2b308e76496dfbf659796bd7d569cd82812a"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/focus-2024.txt",
+    "bytes": 127951,
+    "sha256": "2e7bf617e17b4d89ffeb0105a8275918cdf6013160ce9b7eca2910b46b59c379"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/focus-2025.txt",
+    "bytes": 158536,
+    "sha256": "410b01effd2e3eb3ffb44f6db12d2f33069b217dd3269f82f53c587a47dd391f"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/focus-2026.txt",
+    "bytes": 131760,
+    "sha256": "0811943dc6c7470f745356e4bf9b74f96cac82f1d3cbf1b00e3bb46dfda06581"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/manifest.json",
+    "bytes": 9127,
+    "sha256": "f348049e3c167304de03e6dd26020095e66bc7bbe5ec25620a02c26c7c092063"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/reviewed-evidence.json",
+    "bytes": 7336,
+    "sha256": "c88f3aff57a3d796b4efb11091258cb1aeb598beb170c9398efc12a3312b6466"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/screen-2018.json",
+    "bytes": 6984,
+    "sha256": "d08faa5645a5f10a3dd1d45041c755ef94a89df2b4d1718dddf36d78b532837f"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/screen-2019.json",
+    "bytes": 8282,
+    "sha256": "511e7b2532b7b1e57bc0319522be6a6dd800fd067932cddd16af60d10adecdbe"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/screen-2020.json",
+    "bytes": 12915,
+    "sha256": "a906660671059df336421eaaec610fbec3069747a40ac7a1c7edbebfeb7ff93e"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/screen-2021.json",
+    "bytes": 9356,
+    "sha256": "30655436a8d837e5208f1d686c617b0d56afd1a7f5da87c519104775a7897c55"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/screen-2022.json",
+    "bytes": 4527,
+    "sha256": "eea6aa43b26bf6f4c1950acb1cd7c8ece5a59177d14a3e759105d2bc0ab1b94c"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/screen-2023.json",
+    "bytes": 3501,
+    "sha256": "c1f362d0b20cec246b4533151ad31b516af7806f2dac237fac768fc9bbb3069f"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/screen-2024.json",
+    "bytes": 5177,
+    "sha256": "aaf33ac399cf71e3caf041e2e86e18809d9b4fb4dce34b54bf3b8738f099d9de"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/screen-2025.json",
+    "bytes": 4473,
+    "sha256": "9d584b83253c173acad7cf7dd025b6046f6385482a453f0caa266328b6edb19e"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/screen-2026.json",
+    "bytes": 5831,
+    "sha256": "eda6840fde8b0a60f127e86653f5869c5b6791b2e01c04c23a76b01b55fe44c4"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2004.pdf",
+    "bytes": 1994126,
+    "sha256": "a106db3017546caa138303a839fdd7f73e78ad397cb5d1fed03faa5e8fb73584"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2005.pdf",
+    "bytes": 2211131,
+    "sha256": "dd02f8393dd779ef6828fb3905911e3f2263c2b31e0c8ba187a8669333b7795e"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2006.pdf",
+    "bytes": 540284,
+    "sha256": "c6317d83c62a552d01c6417e08ca946ff6d0ebf06efd00ae92b635e38e5e2511"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2007.pdf",
+    "bytes": 1018618,
+    "sha256": "5fd4e9cd04751a347172fcf61b61b96e5433655b60b00e58a5362c70fbba9a4c"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2008.pdf",
+    "bytes": 3114495,
+    "sha256": "dacc55aa743f6954856284b5ce67186cda83b752d1c55eca2fab96b4a355c297"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2009.pdf",
+    "bytes": 10549656,
+    "sha256": "5de04251931d6207adf8777d3b79008a14e23d67d3a9401998a9005adbd83bd6"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2010.pdf",
+    "bytes": 8979572,
+    "sha256": "2e11426d2624b2ff34c6be83cceaa0287cff76294f8a2230b4ca23fcf7118853"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2011.pdf",
+    "bytes": 8697361,
+    "sha256": "3a3b3c26fa32332bfda02f8e563bf43fc66e7469a78ede6253e4318a73b734c9"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2012.pdf",
+    "bytes": 7519084,
+    "sha256": "9a347f9e7a30154e30f1081033cf78421e100aca11d02f8f6a742a8055d356cf"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2013.pdf",
+    "bytes": 6745887,
+    "sha256": "1ee88066f1d6f1e755982589b854bca99509479bcb802afc4a194f9f473e31ce"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2014.pdf",
+    "bytes": 9257185,
+    "sha256": "3e5dad68006013832ed365a02feaeeb67edc4c7a92bd8dc509b956e0e48cdea1"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2015.pdf",
+    "bytes": 6060453,
+    "sha256": "cd3cadb1447a4ca9803f7ca5410ed6730bd17bc2bc5d957bfe2e281cc05a8c0b"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2016.pdf",
+    "bytes": 15888801,
+    "sha256": "7c6626b81b4db23702f87471cbba34f52dfcba8bceae428be4a207ebdd26366c"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2017.pdf",
+    "bytes": 4907104,
+    "sha256": "aaa8b856eeebe0a33d3ccfed430c3e8b97cec8cb73cbbd1e9f8053f1112e0e10"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2018.pdf",
+    "bytes": 7558250,
+    "sha256": "a39e9b517323271a927e22b25f24e55ffe6a3aba0a7ce5291eb66bf9a5f15e57"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2019.pdf",
+    "bytes": 7625666,
+    "sha256": "006018176edb9aacd3f87d0ec2fd918abf2c248f64dab0b0602a87b0b3ba6674"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2020.pdf",
+    "bytes": 3839579,
+    "sha256": "7f8d0d4d5b7797f437f1fc2568e4f1f256e9a04d4740eab31dd648298dcae8af"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2021.pdf",
+    "bytes": 7996564,
+    "sha256": "f4ee7f914d137d5cbf9d4b2951bde15efad8fae72932366814569d0e3415bf4b"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2022.pdf",
+    "bytes": 3942847,
+    "sha256": "a8abf0178d5b1ef7b93b684309dcc3c387875dfc8cc995eaed9fbc37e3753e30"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2023.pdf",
+    "bytes": 8708889,
+    "sha256": "10e4522f58e389326dd945a61e1f4c11eeed14f8d49dc089d6bb864295210b49"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2024.pdf",
+    "bytes": 5193535,
+    "sha256": "7155ec386047c81d428bc9162711aa54924c4b4b6b648949b212ad60dc5b9e0e"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2025.pdf",
+    "bytes": 7556580,
+    "sha256": "a2a54d19a0d71be2efd2efb63c38bf7379dd8a381d26c4d1543948376afb0dba"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/sources/Perseus-2026.pdf",
+    "bytes": 9545526,
+    "sha256": "1c4f536581800c5d641635e2c2cce5ed79115d9c922142c91826df4099923bb7"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/stocklight-index.html",
+    "bytes": 90543,
+    "sha256": "c98c5af7fb50bf4ad34c2cb1e962cc436b266d9985551817221484ec3bed9c13"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2004.json",
+    "bytes": 92118,
+    "sha256": "9dbf5e2146139037b768597c23d8a0b2f36f7a03d20383a04dd8e45603bc8b02"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2004.txt",
+    "bytes": 89431,
+    "sha256": "1ac48d2a1ab279e739139c91700f73c7e4b872ed6f10cb6547556ee54f73bead"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2005.json",
+    "bytes": 1851,
+    "sha256": "38eaae82dd91d52e0f7aedd177e258547f1cf2e91467f10d5908d36402e808c6"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2005.txt",
+    "bytes": 1353,
+    "sha256": "12126153504f0301814e58dda7aa352c4da8f323ecbe725129f1ca21f6da52b3"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2006.json",
+    "bytes": 168089,
+    "sha256": "67c4a849fd24bab54a81b6f7108e9d53b953b116fc3ddfddc2d07cdfd695adb4"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2006.txt",
+    "bytes": 163556,
+    "sha256": "9c2246407efda7de423903ef8b3b6cd1f2535394e2eb16302227d6be76778b29"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2007.json",
+    "bytes": 155278,
+    "sha256": "bba697d354d1d633bd6480257f4d883639c52c3b92e3e574dbf8e0a4ceec0d8e"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2007.txt",
+    "bytes": 151602,
+    "sha256": "203a89963c407e74c00654354bbab5e331c052f6cd2c140c305d9e4c5c3a428c"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2008.json",
+    "bytes": 189297,
+    "sha256": "ebdfad4df92f26f406d5a5992a1fd23ce386568bff6fa795a95a81fd64f3f172"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2008.txt",
+    "bytes": 185458,
+    "sha256": "3d9cf9d26077be8269eae2d3ad7fc59b9047727e389c05f50fe0c938d902d884"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2009.json",
+    "bytes": 204941,
+    "sha256": "915982d591f687123060190f00ef4c9251b8ffd1cb6973872726d3db34937c30"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2009.txt",
+    "bytes": 200209,
+    "sha256": "968ad670a13da2506f6482c529a23eacdcd642de16508f2351ed324ae4215c0e"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2010.json",
+    "bytes": 238314,
+    "sha256": "297b6450735721058c9c992ac593249610c2fa07aa25d7884fe86fd17bde6790"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2010.txt",
+    "bytes": 233121,
+    "sha256": "84212efd3a6f97b84256a112ef52cbada8dcf2b3a72aef24e63f778a97f63fbd"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2011.json",
+    "bytes": 255725,
+    "sha256": "5f099796f76b3f15fcad77857251f99dacbd57da33986ebd3f6fdcaee5a8de24"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2011.txt",
+    "bytes": 250018,
+    "sha256": "60a56af5a5928f5df3c5bce8d955d1195b35797b6856c4e509cfc74f2a0a68d7"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2012.json",
+    "bytes": 296882,
+    "sha256": "5275bef1118ccb3365c337beafc52816d388dc1409ef52ecf3f57d207cfe27f8"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2012.txt",
+    "bytes": 288512,
+    "sha256": "53ce2e67a0aebc3522e018dc42842f4495e051c14d827fee3962b150412db36f"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2013.json",
+    "bytes": 326115,
+    "sha256": "9ef2dd0a27e47212bac0a217398d24c3594734986af5635468071ee4e455fa8a"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2013.txt",
+    "bytes": 318241,
+    "sha256": "237c62f7b3bb62fd268bf6d91716b009ba9bdd3410caaa681789836c5e5356ef"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2014.json",
+    "bytes": 325314,
+    "sha256": "ce66c883523320afcf0e4680913f4c33656fb5b4dff004477a2acde6b5c22bd6"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2014.txt",
+    "bytes": 317363,
+    "sha256": "ff774137baf139ec28a5488543cb163331845a962ad46892c9c6b86a0cc01ea2"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2015.json",
+    "bytes": 297040,
+    "sha256": "0ceede8f5ea36334fda6796dc08652dde5788ae4f9f695e33ff210b78cbe37a4"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2015.txt",
+    "bytes": 288194,
+    "sha256": "09d4dedcad1612a2bb469e84e714f721a1db40c7b04544f6bfd913a3866cc7ee"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2016.json",
+    "bytes": 336523,
+    "sha256": "878c96643b0f0f8f394f3282118508960775ba3c335fd629aac69e8109bad546"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2016.txt",
+    "bytes": 329185,
+    "sha256": "f337b7798664ab1e94f0a3213ec337b69604b85a7b33ac3c723205d8bcd6e0d8"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2017.json",
+    "bytes": 356697,
+    "sha256": "02507288693de957c9268d8bab7347aab4b4b4773eb7a73d95c902d9a67bfce1"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2017.txt",
+    "bytes": 349284,
+    "sha256": "774836c0a4afdf38b667b147751b72e391c1b466044140e7e6d6f82cd8e8780b"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2018.json",
+    "bytes": 340117,
+    "sha256": "847b16b88f44b30dfb3d7fa9e41f4421d142afe39467aca674613d7294ec0af5"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2018.txt",
+    "bytes": 332358,
+    "sha256": "5f19b25c8883f589f29df7572c6c81903131d27c25b505174aabcd3b5a8e2c29"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2019.json",
+    "bytes": 338188,
+    "sha256": "6bdfda65d3fd0be066beac9a484f242ee43203b8d88b7a83663304a15f666ae9"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2019.txt",
+    "bytes": 330533,
+    "sha256": "ce40a29bfa14cff6d89ea3edfe94a4c65999439969b35313e74cbd4e46daa1d8"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2020.json",
+    "bytes": 305002,
+    "sha256": "fc6c8676358268bfc9552f80a5de83cb03c1647102804a3e0a6679b85b9ad040"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2020.txt",
+    "bytes": 299457,
+    "sha256": "040ba009e97a5abd84f862022988decd782ba3d2be04289993785160b02a018a"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2021.json",
+    "bytes": 295737,
+    "sha256": "1ca678ac6673f1d4ef18d84e67877031f32ea127e12fbcf1baf258b8d71aa8ae"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2021.txt",
+    "bytes": 289777,
+    "sha256": "f941ebac9a267e37edc4a18626e252de146c4f8eb632b3e403ee6e43fcdc9eb9"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2022.json",
+    "bytes": 317001,
+    "sha256": "4b681d6769179f6feab313695514f11a67e9f64a527269953acd35e33d12fadf"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2022.txt",
+    "bytes": 310265,
+    "sha256": "1ac98280e2d388132f6b427f3d9068dcb4e8cb95fbc38d9a101e4ae4ef801ff1"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2023.json",
+    "bytes": 438972,
+    "sha256": "cd96711bb8c8687807fb379ae433cf0e0ce3d3db77c4b231fa4b2e209c39e563"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2023.txt",
+    "bytes": 428697,
+    "sha256": "5f29f7433227cef1fb86f7cd1db703dbc3f1d5509fdcc760b6f8351b3b6ef879"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2024.json",
+    "bytes": 295875,
+    "sha256": "636562f7b296fe7b74516a43a77df7a5e595b2476b3d4752d2dc61b3265d7a11"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2024.txt",
+    "bytes": 289795,
+    "sha256": "539cbacb200da0188a2747075ed18f6988d1f04be85645783d63a8c6809d5a10"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2025.json",
+    "bytes": 290242,
+    "sha256": "34c4b6a4f1b56e3b932b08ec62a5f173a04dab4fda388f341aa2c4262e7991bd"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2025.txt",
+    "bytes": 284070,
+    "sha256": "d1c29f762cd12e195d375cbadc88fd65854c25cff660edc2024d5eb363383b7e"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2026.json",
+    "bytes": 369925,
+    "sha256": "e64ac4d3c4d5b8e2d394b5cc6d718086660139d330554995135f681a56a62e44"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/text/2026.txt",
+    "bytes": 359599,
+    "sha256": "622f8fd5ba4fb6f62f21569ba1c85b660a46894d325c30a9278891855a5af312"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/verification/2005-page12.png",
+    "bytes": 128092,
+    "sha256": "4ae38fbe47adaa98029a56c13d3c4c29f1d22efbbd5468df8b9926f51ae3b8c6"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/verification/2020-auditor-page52.png",
+    "bytes": 797100,
+    "sha256": "1c4ca054e61c9e2dd07b19827ba39d38f99a89b1e5c8aedd4b410af4fa0ec09f"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/verification/2020-auditor-page53.png",
+    "bytes": 921537,
+    "sha256": "4f27e366d768104278daee4b45fd8f522a1a34cf3eef93e949002f97a8a1f3cb"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/verification/2024-note11-page38.png",
+    "bytes": 505782,
+    "sha256": "d8539bcb93b785a204b8da63388348feb9ee78744fa014e61854527a3f3f526a"
+  },
+  {
+    "path": "research/perseus-annual-review-2026-10-22/verification/2026-note11-page58.png",
+    "bytes": 521104,
+    "sha256": "2d0648be543ac239548636072e3edd8dd308d851872b15d2da28e8818327a741"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/202506-Perseus-NI-43-101-Technical-Report-Nyanzaga_Final.pdf",
+    "bytes": 22603411,
+    "sha256": "dbfd9fa1f4a90a7f5ef2db85730674da7c7fc2da5026a148f236c943ac74d142"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/202506-Perseus-NI-43-101-Technical-Report-Nyanzaga_Final.pdf.json",
+    "bytes": 817046,
+    "sha256": "48935dbf417ee7d51212f5b0749c73e32a09cb6032276dab8c3dbdcda030964b"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/CAGP-Appendix-1.6-AGC-Closure-Report.pdf",
+    "bytes": 5122733,
+    "sha256": "91d46a59bee5d0697e3ff34d20f6a0f8ac7c2296be966cc133714c04374d9be0"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/CAGP-Appendix-1.6-AGC-Closure-Report.pdf.json",
+    "bytes": 77267,
+    "sha256": "efc9935a12f3d7f94d3209969d2305e2bd5d2074de2739090a163c188908fb0c"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/Edikan-2019-Geotechnical-Review-TSFs-Rev-0.pdf",
+    "bytes": 29827478,
+    "sha256": "aff8b09292c8503770fe08b8e163f170115f2c436e601c641c49abbe97f0231d"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/Edikan-2019-Geotechnical-Review-TSFs-Rev-0.pdf.json",
+    "bytes": 633805,
+    "sha256": "716f22b580bbdc360b4be457fd90790e9cba3a761ba9787bc43040ee216513ba"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/Edikan_NI_43_101_Technical_Report_2022.pdf",
+    "bytes": 14738934,
+    "sha256": "2c00dcc93c7b8dcd0a178b5d072a6bbb511c1b90686e5c03001042533cd0f01e"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/Edikan_NI_43_101_Technical_Report_2022.pdf.json",
+    "bytes": 413425,
+    "sha256": "7ccb65f73081895185d639663d5ec021e95a21164d3f19ee0609c8c1642945bc"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/FY22-Perseus-Sustainability-Data-Book.xlsx",
+    "bytes": 522476,
+    "sha256": "86ff884675f0e6bcabdbc818b97ce414239cf8e76d0fee30d4fdca5465c0799e"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/FY23-Perseus-Sustainability-Databook.xlsx",
+    "bytes": 485921,
+    "sha256": "19b830f56b8e2dc513f25a4a6ee5fa7c6057188c00cfe551f4da8046c4d0afb1"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/FY24_Perseus-Sustainability-Databook-Final-PROTECTED.xlsx",
+    "bytes": 507985,
+    "sha256": "67e85a7bdc850b0fea9ce3a839d7248cefc4bdf3ccf67c564bd45852aa965c29"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/FY25_Perseus-Sustainability-Databook_PROTECTED.xlsx",
+    "bytes": 383111,
+    "sha256": "61e9bc372087d56be8e8ef68226d4600ffebf861066bca09d9bf9cd4182d6236"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/FY26_Perseus-Sustainability-Databook_CLEAN.xlsx",
+    "bytes": 387278,
+    "sha256": "50e9b83d7434ffd951796ad2d41bf94cd7f22938ca4044c749cc5a40561ddd3a"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/Findings.md",
+    "bytes": 3371,
+    "sha256": "cbf1ec6c47e15de8c0ab6d73112338365c34ca8775101d81e40f5a243490a1d3"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/Yaoure-ESIA-Appendix-33-Conceptual-Closure-and-Rehab-Management-Plan-33a.pdf",
+    "bytes": 2697871,
+    "sha256": "693b3935b93013a03a8a81bc7623d3f8a332f051cbe8b47a95adfc73c7838305"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/Yaoure-ESIA-Appendix-33-Conceptual-Closure-and-Rehab-Management-Plan-33a.pdf.json",
+    "bytes": 119983,
+    "sha256": "2cba7d6748dba39fcdbb485e9eb86f5c21cd594b7a5deeb587b6492fe7834a97"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/discovered-links.json",
+    "bytes": 8911,
+    "sha256": "d79446e11088a9a9c0c722ef34a394606d2702cd9dd5deb848c71e99098a2df7"
+  },
+  {
+    "path": "research/perseus-public-input-search-2026-10-22/download-manifest.json",
+    "bytes": 2362,
+    "sha256": "742ced6b9944a16cb01af038efb39f57dc4a74624eea12032f95c1bb2c10a1f4"
+  },
+  {
+    "path": "tests/test_closure_review.py",
+    "bytes": 2308,
+    "sha256": "24d1ddc3069912923bbf19922bacfc4b0e19fe01260ede8c4621724f6d772aa9"
+  },
+  {
+    "path": "tests/test_closure_server.py",
+    "bytes": 3276,
+    "sha256": "73d8b442a92ec3aaf983fd9391acc53e3ea1e4a432abc87416fa0879d1814114"
+  },
+  {
+    "path": "tests/test_closure_workbooks.py",
+    "bytes": 4221,
+    "sha256": "6ed63ddc7b2130784ff4cf3bdc4665d4cfdb5b93636922e7a150cd052651f225"
+  }
+]

@@ -1,0 +1,296 @@
+[
+  {
+    "year": 2004,
+    "pdf_pages": [
+      7
+    ],
+    "finding": "Exploration-stage company. Seasonal and access delays affected a Kyrgyz drilling programme; no operating mine to assess.",
+    "themes": [
+      "exploration",
+      "access"
+    ]
+  },
+  {
+    "year": 2005,
+    "pdf_pages": [
+      12
+    ],
+    "finding": "Exploration access and crop-compensation delays affected planned drilling. The downloaded copy is scanned; reviewed a rendered page and readable archived text (printed pp. 10–11).",
+    "themes": [
+      "access"
+    ]
+  },
+  {
+    "year": 2006,
+    "pdf_pages": [
+      7
+    ],
+    "finding": "Feasibility, metallurgy and environmental approvals dominated. No operating-mine production failure was established.",
+    "themes": [
+      "development"
+    ]
+  },
+  {
+    "year": 2007,
+    "pdf_pages": [
+      8,
+      11,
+      17
+    ],
+    "finding": "Drilling equipment/ground conditions constrained a Kyrgyz programme. Ayanfuri's acquired historical rehabilitation obligation was recognised.",
+    "themes": [
+      "equipment",
+      "rehabilitation"
+    ]
+  },
+  {
+    "year": 2008,
+    "pdf_pages": [
+      4,
+      16,
+      17
+    ],
+    "finding": "Exploration-stage priorities included financing, resource confidence and environmental baseline work. Unreliable electricity affected camp food handling.",
+    "themes": [
+      "development",
+      "power"
+    ]
+  },
+  {
+    "year": 2009,
+    "pdf_pages": [
+      7,
+      9
+    ],
+    "finding": "Development and financing transition: mine approvals and construction financing were priorities. A pending approval is not by itself evidence of a failure.",
+    "themes": [
+      "development"
+    ]
+  },
+  {
+    "year": 2010,
+    "pdf_pages": [
+      4,
+      16
+    ],
+    "finding": "Edikan construction and Sissingué feasibility/permitting progressed. This year does not establish a repeated mine-closure modelling failure.",
+    "themes": [
+      "development"
+    ]
+  },
+  {
+    "year": 2011,
+    "pdf_pages": [
+      4,
+      5,
+      12,
+      15
+    ],
+    "finding": "Edikan was delivered on time/on budget. Sissingué permitting was temporarily suspended during disputed Ivorian election results, then resumed.",
+    "themes": [
+      "development",
+      "political"
+    ]
+  },
+  {
+    "year": 2012,
+    "pdf_pages": [
+      10
+    ],
+    "finding": "Edikan experienced higher-than-planned unscheduled downtime involving crusher feed, mechanical equipment, water and tailings management; remedial work started.",
+    "themes": [
+      "downtime"
+    ]
+  },
+  {
+    "year": 2013,
+    "pdf_pages": [
+      8
+    ],
+    "finding": "Crushing-equipment failures and above-budget downtime contributed to production below guidance. Remediation improved crusher availability late in the year.",
+    "themes": [
+      "downtime"
+    ]
+  },
+  {
+    "year": 2014,
+    "pdf_pages": [
+      8,
+      20
+    ],
+    "finding": "Processing was interrupted by fire and electricity problems. Lower-grade blending was a deliberate cash-conservation choice; progressive rehabilitation already occurred.",
+    "themes": [
+      "downtime",
+      "power",
+      "ore",
+      "rehabilitation"
+    ]
+  },
+  {
+    "year": 2015,
+    "pdf_pages": [
+      8,
+      10
+    ],
+    "finding": "Mandatory grid load shedding prompted standby-generation expansion; full power supply was restored in April. Delayed mining-area access also affected capital work.",
+    "themes": [
+      "power",
+      "access"
+    ]
+  },
+  {
+    "year": 2016,
+    "pdf_pages": [
+      8,
+      16,
+      17
+    ],
+    "finding": "Delayed pit approvals/access forced more low-grade stockpile processing and affected output/cost. The company invested in power and plant improvements.",
+    "themes": [
+      "access",
+      "ore",
+      "power"
+    ]
+  },
+  {
+    "year": 2017,
+    "pdf_pages": [
+      12,
+      14
+    ],
+    "finding": "Plant upgrades and relocation were completed; head grade, recovery and production improved. Important evidence of a response, not a persistent identical failure.",
+    "themes": [
+      "improvement"
+    ]
+  },
+  {
+    "year": 2018,
+    "pdf_pages": [
+      10,
+      13,
+      134,
+      135,
+      136
+    ],
+    "finding": "Edikan production improved with higher grades/throughput; Sissingué commenced ahead of schedule/on budget. Auditor focus included impairment, revenue and commercial-production timing.",
+    "themes": [
+      "improvement"
+    ]
+  },
+  {
+    "year": 2019,
+    "pdf_pages": [
+      15,
+      19,
+      136,
+      137
+    ],
+    "finding": "Harder ore reduced Edikan throughput; carbonaceous material affected recovery. Sissingué accelerated waste removal as a precaution after very high rainfall.",
+    "themes": [
+      "ore",
+      "weather"
+    ]
+  },
+  {
+    "year": 2020,
+    "pdf_pages": [
+      7,
+      8,
+      52,
+      53
+    ],
+    "finding": "A softer/higher-grade Bokitsi blend increased throughput and grade but carbonaceous material reduced recovery. The scanned auditor section's KAM concerned Yaouré development capitalisation.",
+    "themes": [
+      "ore"
+    ]
+  },
+  {
+    "year": 2021,
+    "pdf_pages": [
+      17,
+      101,
+      102
+    ],
+    "finding": "Recovery improved after Bokitsi depletion, despite lower Edikan output. Closure/rehabilitation provision became a key audit matter, with surveys, rates and mine-plan checks.",
+    "themes": [
+      "ore",
+      "rehabilitation"
+    ]
+  },
+  {
+    "year": 2022,
+    "pdf_pages": [
+      28,
+      29,
+      127,
+      128
+    ],
+    "finding": "Edikan missed output/cost guidance after lower-grade feed, lower throughput and a 19-day preventative shutdown; planning allowance was insufficient. Closure provision remained a KAM.",
+    "themes": [
+      "ore",
+      "downtime",
+      "rehabilitation"
+    ]
+  },
+  {
+    "year": 2023,
+    "pdf_pages": [
+      17,
+      18,
+      159
+    ],
+    "finding": "Edikan output and recovery rebounded and exceeded guidance. Closure provision remained a KAM; the original financial statements were in Australian dollars.",
+    "themes": [
+      "improvement",
+      "rehabilitation"
+    ]
+  },
+  {
+    "year": 2024,
+    "pdf_pages": [
+      7,
+      9,
+      38,
+      51,
+      52
+    ],
+    "finding": "Yaouré mining movements below targets delayed higher-grade ore access. Extreme weather hurt Sissingué's first quarter. Closure provision remained a KAM; reporting switched to USD with restated comparisons.",
+    "themes": [
+      "access",
+      "weather",
+      "rehabilitation"
+    ]
+  },
+  {
+    "year": 2025,
+    "pdf_pages": [
+      7,
+      8,
+      39,
+      52
+    ],
+    "finding": "Yaouré mining performance improved. Nkosuo access/compensation negotiations progressed slower than planned; Sissingué costs exceeded guidance. Closure provision remained a KAM.",
+    "themes": [
+      "access",
+      "cost",
+      "rehabilitation"
+    ]
+  },
+  {
+    "year": 2026,
+    "pdf_pages": [
+      4,
+      7,
+      8,
+      27,
+      58,
+      75
+    ],
+    "finding": "Ore-source transitions, lower grades and higher royalties affected production/costs; full-year guidance was achieved. Closure provision remained a KAM. Climate disclosure identified no material current-year weather/supply-chain impact.",
+    "themes": [
+      "ore",
+      "cost",
+      "rehabilitation"
+    ]
+  }
+]
